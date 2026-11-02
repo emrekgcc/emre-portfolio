@@ -706,7 +706,5 @@ if (!reduceMotion) {
   }, { passive: true });
 }
 
-window.addEventListener("load", () => {
-  setLanguage(currentLang, false);
-  window.setTimeout(() => document.querySelector(".boot")?.classList.add("is-gone"), 450);
-});
+setLanguage(currentLang, false);
+window.setTimeout(() => document.querySelector(".boot")?.classList.add("is-gone"), 450);
