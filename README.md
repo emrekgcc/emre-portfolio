@@ -2,6 +2,8 @@
 
 Applied AI and software portfolio. Available in English and Turkish.
 
+[Open the portfolio](https://emrekgcc.github.io/emre-portfolio/)
+
 Six project case studies, experience, education, learning path and downloadable professional documents.
 
 ## Local preview

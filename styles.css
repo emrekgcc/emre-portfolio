@@ -1093,6 +1093,7 @@ html[lang="tr"] .journey-heading h2 { font-size: clamp(2.8rem, 4.7vw, 5.6rem); l
   .site-header nav a { padding-inline: .38rem; }
   .hero { min-height: max(100svh, 850px); }
   .hero h1, html[lang="tr"] .hero h1 { top: 7.5rem; width: 90vw; font-size: clamp(2.7rem, 10.5vw, 5rem); line-height: 1.05; }
+  html[lang="tr"] .hero h1 span:nth-child(3) { font-size: clamp(1.6rem, 8vw, 3.8rem); white-space: nowrap; }
   .hero-world { bottom: 10rem; width: 172vw; }
   .hero-note { bottom: 4.4rem; width: calc(100% - 2rem); }
   .enter-work { bottom: 1rem; }
