@@ -1123,7 +1123,7 @@ html[lang="tr"] .journey-heading h2 { font-size: clamp(2.8rem, 4.7vw, 5.6rem); l
   .document-links { margin-top: 2.5rem; }
   .back-home { display: table; margin: 2rem 0 0 auto; }
   .dossier-hero { display: block; min-height: auto; }
-  .dossier-hero h2 { font-size: clamp(3.5rem, 15vw, 7rem); margin: 1.5rem 0 1rem; }
+  .dossier-hero h2 { font-size: clamp(2.6rem, 12vw, 6rem); margin: 1.5rem 0 1rem; }
   .dossier-proof { margin-top: 2rem; padding: 2.5rem 1.5rem; font-size: clamp(1.8rem, 7vw, 3rem); }
   .dossier-summary { margin-top: 2rem; }
   .architecture-heading { font-size: clamp(2.5rem, 11vw, 3.6rem); overflow-wrap: anywhere; }
