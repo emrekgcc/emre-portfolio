@@ -929,6 +929,7 @@ dialog::backdrop { background: rgba(41,41,41,.88); }
 
 /* Text follows the document flow; the illustrated scenery stays decorative. */
 .scene { scroll-margin-top: 74px; }
+.about-portrait img, .journey-world { height: auto; }
 .scene h2, .scene h3 { overflow-wrap: anywhere; }
 .site-header { grid-template-columns: auto minmax(0, 1fr) auto; gap: 1.5rem; }
 .site-header nav a { padding-inline: clamp(.45rem, 1.05vw, 1.05rem); }
